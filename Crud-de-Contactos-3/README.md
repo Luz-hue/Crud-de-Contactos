@@ -1,0 +1,3 @@
+# Crud-de-Contactos
+Este código implementa una aplicación de escritorio web con Flet para gestionar contactos. Permite agregar, actualizar, borrar y buscar contactos mediante un formulario y una tabla. Además, ofrece exportar los datos a PDF y Excel, formatea teléfonos y valida entradas básicas como nombre y correo.
+En la versión 2 se había añadido un campo para el CI, y en esta versión (3) se le ha dado formato a los números de teléfono de 10 dígitos.
